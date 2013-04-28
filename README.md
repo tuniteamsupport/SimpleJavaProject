@@ -1,3 +1,3 @@
 README
 
-Simple Java Project created with Maven. Uses as Sandbox.
+Simple Java Project created with Maven. Used as Sandbox.
